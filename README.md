@@ -23,19 +23,6 @@ The application also includes administrative features for managing products, cat
 - View Sales History
 - Manage Store Inventory
 
-##  Technologies Used
-
-| Technology | Purpose |
-|---|---|
-| Java | Backend Programming |
-| JSP & Servlets | Web Application Development |
-| JDBC & Hibernate | Database Connectivity |
-| MySQL | Database Management |
-| HTML & CSS | Frontend Design |
-| JavaScript | Client-Side Functionality |
-| Bootstrap 4 | Responsive UI |
-| Maven | Project Dependency Management |
-
 ##  Project Structure
 
 ```text
